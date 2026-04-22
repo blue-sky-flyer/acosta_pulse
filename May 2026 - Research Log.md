@@ -68,3 +68,35 @@ _Synthesized into topic candidates on the second-to-last Monday of April 2026._
 
 **WOW Candidate:**
 - The "Less-Attention Paradox" (GSMA Intelligence / Netguru 2026): Consumer devices in 2026 are becoming smarter and more capable while *demanding less active attention from users* — counterintuitive because more advanced technology historically attracted more engagement. Two-thirds of consumers are now actively seeking simplification and a "less-but-better" relationship with technology (Euromonitor). For field teams, this flips the traditional demo playbook: the most persuasive 2026 pitch for a connected appliance or smart device may be "you won't have to think about it" — not "look at everything it can do." The consumer who is exhausted by feature complexity is the primary audience, not the feature maximalist.
+
+---
+
+## Week of April 21, 2026
+
+**Reddit / Platform Trust Signals:**
+- Reddit AI shopping carousels (announced Feb 19, 2026): Platform testing interactive product carousels in search results — pricing, images, and direct where-to-buy links surfaced when users search product queries (e.g., "best noise-canceling headphones"). Feature pulls from Dynamic Product Ad partner catalogs and frames results as community-endorsed. Currently limited U.S. test group. (TechCrunch, Search Engine Land, ALM Corp)
+- Reddit search WAU grew from 60M → 80M annually; AI Answers feature from 1M → 15M users — Reddit is a growing product research destination, not a niche forum
+- Reddit at Shoptalk 2026: Launched "Collection Ads" with "Redditors Top Pick" overlay — explicitly commoditizing community trust as an ad signal
+- Reddit reported 40% YoY increase in high-intent shopping conversations; 84% of users say they feel more confident after researching on Reddit (pre-carousel baseline — worth monitoring if trust metrics shift post-rollout)
+- Community concern pattern (based on prior Reddit backlash to API changes and organic-mimicking ads): users have repeatedly flagged formats that blur organic discussion and paid promotion; if carousels surface advertiser products over genuine community picks, Redditors will notice — they are the most ad-skeptical user base on the internet
+- Structural implication: Consumers added "Reddit" to Google searches specifically to escape commercial influence. As Reddit itself becomes a commerce layer, the trust that made it the default validation channel is at risk. No documented user exodus yet — feature is still in limited test. **Follow up: monitor r/technology and r/changelog reaction threads as rollout expands.**
+- Broader trust vacuum forming: Google AI Overviews (sponsored), ChatGPT Shopping (monetized), Reddit (carousels) — every major digital research channel is simultaneously becoming a commerce layer. The physical store associate may be the last unsponsored research touchpoint. AI-driven shopping clicks up 45% YoY (Nov 2025) but transactions nearly flat — trust gap widening between research and commitment.
+
+**YouTube / Social Proof Signals:**
+- YouTube content volume functions as a social proof proxy: "the collective output of a community becomes a powerful driver of purchasing decisions" — consumers interpret high video volume as a popularity and quality signal (research confirmed across multiple UGC studies)
+- 85% of consumers hesitant to consider a product without sufficient online content (Capital One Shopping 2026 review stats) — sparse YouTube coverage creates a pre-store credibility deficit
+- Unboxing videos create "vicarious experience" with higher emotional connection than written reviews; ASMR unboxing completion rates 70%+; YouTube is 2x more trusted than other social platforms for product content
+- 35 billion hours of shopping-related content watched on YouTube — up 250% YoY; platform functions as the deep-research/validation layer (distinct from TikTok discovery role)
+- Social proof gap is widest for: newer model releases before creator ecosystem catches up, Whirlpool/Maytag/KitchenAid SKUs vs. Samsung/LG, mid-tier audio, any product without a brand creator affiliate program driving content volume
+- **Field team implication:** An associate who creates a YouTube unboxing for a product with 3–5 existing videos becomes the de facto online authority for that product — content follows the shopper pre-store AND validates in-store. Higher ROI than creating content for products already covered by 50+ videos.
+
+**Employee-Generated Content (EGC) Research:**
+- Currys (UK CE retailer) case study: Employee TikTok content strategy ("Beyond Techspectations") outperformed paid advertising ROI by +44% YoY; pushed Currys to #1 for "knowledgeable and helpful staff" perception; #1 brand preference vs. competitors; now benchmarks social performance against Aldi and top social brands, not retail competitors (The Drum, Feb 2025; AMV BBDO)
+- EGC engagement: Employee-created content generates 8x higher engagement than branded content; employees personal networks are 10x larger than brand follower counts on average (Metricool / Haiilo)
+- Consumer trust: 3x more likely to trust information from employees than from CEOs or corporate accounts; 92% trust UGC/EGC over branded content (IgniteVisibility 2026)
+- Best Buy Creator Program (2025): Launched shoppable storefronts for tech creators (Linus Tech Tips 16M subs, UrAvgConsumer, Jenna Ezarik) with commission structure — retailer-level validation that creator content drives measurable CE purchase conversion
+- Creator-sourced retail media content drives 3–4.5x the engagement of traditional branded media assets (Modern Retail)
+- Production threshold is low: smartphone 4K + ring light ($30) + authenticity beats polished production on TikTok — Currys model demonstrates this
+- Content format performance: before/after and side-by-side comparisons strongest for CE; unboxing cited as influential by 30% of younger consumers; "what they dont show you in the ad" format drives high trust signals
+- Channel roles: TikTok/Reels = discovery (30–60 sec); YouTube Shorts + long-form = validation and search (long tail — videos drive consideration 12–18 months after posting); in-store QR bridge = connects physical display to online social proof layer
+- **⚠️ Data to verify:** Currys +44% ROI figure (The Drum Feb 2025 — paywalled, confirm via LinkedIn/BBDO post); 8x EGC engagement (Haiilo source); confirm Best Buy Creator Program is still active in 2026
