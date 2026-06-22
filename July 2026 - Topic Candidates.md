@@ -1,0 +1,102 @@
+# July 2026 - Pulse Topic Candidates
+Generated: June 22, 2026 | Issue target: end of July 2026
+
+## Seasonal Context
+- **Amazon Prime Day** (est. July 7–11; dates unconfirmed as of research log) — the single highest-stakes field activation window of the summer; counter-promotions at Best Buy, Target, and Walmart run simultaneously, driving comparable in-store lift for Whirlpool/KitchenAid and mobile brands
+- **Independence Day (July 4)** — LG confirmed active appliance promotions; major retailers (Home Depot, Lowe's, Best Buy, Costco) historically run Black Friday-level appliance volumes; effective start of the summer appliance selling season; field team deployment must be locked now
+- **Mid-July tariff expiry** — some Section 122 tariffs rolling off, theoretically dropping average rate from 10–13% to 6–9%; creating "I'll wait for prices to drop" hesitation among price-sensitive shoppers through the first half of July
+- **Samsung Galaxy foldable lineup launch** (expected July 2026; exact dates unconfirmed) — Samsung will command concentrated CE floor presence; Google Pixel field teams must compete for floor time and associate attention during this window
+- **Back-to-school season activation** — NRF data: 67% of shoppers have already started back-to-school shopping by July's demand peak; Tennessee tax-free weekend July 24–26 confirmed (computers and tablets ≤$1,500 exempt); direct relevance to Pixel field activation in tax-holiday markets
+- **Google Pixel 11 announcement window** (tracking August 17–25 per research log) — July is the intent-seeding window; expect increased in-store Pixel curiosity from tech-forward shoppers; awareness and brand readiness prep, not a sales activation period
+- **Macro backdrop** — Consumer tech retail globally tracking -0.4% vs. 2025 (NielsenIQ); small domestic appliances in growth; 53% of Americans now operating on a formal 2026 household budget (up from 46% in 2025); Circana describes spending as "intentional," not exuberant
+
+## Carry-Forwards Still Eligible
+From Running Topic List Section B — no article yet, still actionable:
+
+- **B2 — Premium Models Winning But Total Spending Falling (K-Shaped Buyer):** Samsung Galaxy S26 Ultra taking 80% of pre-orders while mid-range and budget segments contract. Samsung Galaxy foldable launch in July makes this directly timely — field teams need a qualification framework to route premium vs. cautious buyers at the door. Targeted for May/June per Section D; still unwritten and more relevant than ever with Galaxy foldable active.
+- **B5 — The Store as Decision Theater:** 65% research before entering; 56% of appliance shoppers specifically complete research before the floor visit. The store is doing validation and permission-giving work, not discovery. July research log validates this across all four weeks. Strong complement to the Feb 2026 40% Flip and directly supported by new NielsenIQ data showing omnichannel shoppers outspend single-channel shoppers regardless of where they buy. Targeted for May/June; still unwritten.
+- **B6 — The Best Buy Effect (reframed):** Verify current Amazon/Best Buy market share data (Amazon reported ~31% CE share, surpassing Best Buy ~27%) before writing. Research log confirms Amazon surpassed Best Buy in CE; reframe is ready. Targeted for June; still unwritten.
+- **B8 — The Discretionary Squeeze:** ROI-based messaging for small appliances and discretionary electronics. July research log adds new data point: spending is DOWN on consumer electronics but UP on small domestic appliances — reframes B8 from a "defending against headwinds" story to a "KitchenAid is the growth category" story. Targeted open; still unwritten.
+
+## Candidate Topics
+
+### 1. The Over-Researcher Is Your Best Buyer
+**Angle:** The consumer who does the most research before entering the store — watched YouTube reviews, checked Reddit, ran ChatGPT comparisons — is also statistically the highest-spending buyer; the field team reflex to treat them as a harder conversion is exactly backwards.
+**Why Now:** July's floor is disproportionately stocked with hesitant, over-researched shoppers after the March–April tariff pull-forward exhausted ready-to-buy demand; the cohort walking in this month has already done their homework and needs permission, not a pitch.
+**Research Signal:** Week of June 22 WOW Candidate + Week of June 15 Store Role Insight — NielsenIQ Home Appliances Outlook 2026 confirms omnichannel-researching shoppers outspend single-channel shoppers; multi-week Discovery Channel Signals document TikTok → YouTube → ChatGPT → Reddit → store journey.
+**Data to Verify:** ⚠️ NielsenIQ sourcing is for the appliance category broadly — verify whether the same high-spend correlation holds specifically for Whirlpool/Maytag SKUs and Google Pixel before deploying as a training message.
+**Field Team Hook:** Retrain the demo opener from "let me show you what this does" to "it sounds like you've done your research — what's your one remaining concern?" for any shopper who arrives citing a YouTube review, Reddit thread, or AI comparison; route the conversation to closing the last objection rather than restarting feature education.
+**WOW Factor:** Yes — consumer tech is in a -0.4% sales year, yet the most-researched shopper is the biggest spender; the field team's highest-value customer is the one who asks the most questions.
+**Priority:** High
+
+### 2. The Tariff Relief Mirage — Converting the "I'll Wait" Shopper
+**Angle:** Some tariffs expire mid-July 2026 and theoretically drop the average rate from 10–13% to 6–9%, but price relief will largely be absorbed as margin by retailers and manufacturers — shoppers expecting a visible shelf-price drop in July are going to wait through the holiday weekend and then feel misled when prices don't move.
+**Why Now:** The "wait for relief" hesitation is building now and will peak in the first two weeks of July, directly overlapping with Prime Day and Independence Day — the two highest-volume field activation windows of the summer; field teams without a factual, honest response to this objection will lose converts at the exact wrong moment.
+**Research Signal:** Week of June 8 WOW Candidate — trade analysts confirm mid-July tariff expiry, estimated rate drop 10–13% → 6–9%; Week of June 22 Industry/News — NRF warns tariff escalation or uncertainty remains the primary downside risk to 4.4% growth forecast; cross-referenced with March 2026 published article on Section 122/232 tariff mechanisms.
+**Data to Verify:** ⚠️ Verify which specific Whirlpool, KitchenAid, and Google Pixel SKUs are subject to expiring July tariffs and whether any pass-through pricing changes have been announced before deploying field teams with this message — an honest conversation requires knowing which products will and won't see relief.
+**Field Team Hook:** Build a one-page "Tariff Reality Card" by product category showing: which tariff applies, whether it expires in July, and whether the brand has announced a price change — gives associates a factual, non-speculative answer to "I heard prices are dropping next month" that converts hesitation into a decision rather than feeding it.
+**WOW Factor:** No
+**Priority:** High
+
+### 3. Prime Day Is Field Team D-Day
+**Angle:** Amazon Prime Day (estimated July 7–11) doesn't just drive Amazon sales — it triggers simultaneous counter-promotions at Best Buy, Target, and Walmart that produce comparable in-store lift, making it the single highest-stakes field activation window of the summer for Whirlpool/KitchenAid small appliances and Google Pixel.
+**Why Now:** Prime Day 2026 is estimated the week of July 7–11 based on historical patterns; field teams that are not pre-positioned with demo readiness, associate training, and deployment plans before that week will miss an irreplaceable traffic surge; the announcement is expected within days of this issue.
+**Research Signal:** Weeks of June 1, 15, and 22 Seasonal Markers — Prime Day documented across all three research passes as the peak summer activation window; Week of June 15 confirms LG active July 4 promotions and major retailer Black Friday-comparable appliance volume.
+**Data to Verify:** ⚠️ 2026 Prime Day exact dates not officially confirmed as of research log — Amazon announcement expected imminently; verify and publish specific dates as soon as available so field teams can lock deployment calendars.
+**Field Team Hook:** Use the two-week window before Prime Day to run a "counter-programming blitz" at Best Buy and retailer partner locations — pre-stage demo units, run associate refreshers on Google Pixel vs. Samsung Galaxy foldable differentiation, and confirm KitchenAid small appliance displays are pristine (broken demos deter 57% of shoppers — this is the week those conversion losses are most expensive).
+**WOW Factor:** No
+**Priority:** High
+
+### 4. The ChatGPT Shopper — When the Associate Is the Last Touchpoint, Not the First
+**Angle:** The consumer research journey now runs TikTok → YouTube → ChatGPT/AI comparison → Reddit trust-check → store; shoppers arriving at demo tables are already anchored to AI-generated feature comparisons, and field teams that restart with a scripted pitch are talking past a decision that's already half-made.
+**Why Now:** Week of June 8 Discovery Channel Signals document ChatGPT entering the journey as a new signal for the first time; 63.1% of users discover products on TikTok, 30% buy within the same session for sub-$200 items — the shoppers who do reach the store are the higher-ticket, already-researched cohort; this is the Discovery Channel Signal required topic.
+**Research Signal:** Week of June 8 Discovery Channel Signals (ChatGPT as research shortcut); Weeks of June 15 and 22 multi-channel journey confirmation; Week of June 22 Store Role Insight — the physical store visit is functioning as tactile confirmation and facilitated transaction, not discovery or education, for most July shoppers.
+**Data to Verify:** ⚠️ No primary source retrieved specifically documenting the percentage of in-store appliance or mobile shoppers who used ChatGPT before visiting — flag as directional pattern based on stackinfluence.com and YouGov signals; recommend primary sourcing from Circana or NRF before writing.
+**Field Team Hook:** Train associates to open with "What have you already looked at?" rather than a feature pitch — listen for AI-framed tradeoffs ("the AI said the Pixel has better low-light but worse zoom") and validate or gently correct from there; the associate who extends the shopper's AI research converts at higher rates than the one who ignores it.
+**WOW Factor:** Yes — TikTok has surpassed Google Search as the primary product discovery surface (63.1% vs. 38.1% per YouGov/The Influence Agency 2026), and yet the physical store is simultaneously doing more economic work than conversion metrics show because omnichannel shoppers outspend single-channel shoppers; the field team's value is at both ends of the funnel, not just at the register.
+**Priority:** High
+
+### 5. The Appliance Growth Flip — The Summer's Higher-Opportunity Floor Isn't the Phone Table
+**Angle:** Spending is falling on consumer electronics and smartphones (-0.4% full year per NielsenIQ) even as it grows on small domestic appliances and IT products in 2026 — the field marketing reflex that treats mobile as the growth engine and appliances as the mature, slower play has it exactly backwards this summer.
+**Why Now:** July is the start of the summer appliance selling season (Independence Day, Prime Day counter-promotions, back-to-school dorm cycle) while Galaxy foldable and Pixel 11 anticipation are generating noise without conversion — the gap between product hype and unit sales is unusually wide for mobile this cycle.
+**Research Signal:** Week of June 1 WOW Candidate — NielsenIQ consumer tech market analysis 2026 documents spending UP on small domestic appliances, DOWN on consumer electronics/smartphones; Week of June 15 Industry/News — Circana characterizes consumer spending as concentrated in "lifestyle passion" categories (KitchenAid countertop appliances directly qualify); Week of June 8 NielsenIQ H1 2026 data — full-year CE outlook now flat to slightly negative.
+**Data to Verify:** ⚠️ Confirm the specific NielsenIQ category split between "consumer electronics/smartphones" (down) and "small domestic appliances" (up) for 2026 with primary source — directionally confirmed but exact percentage splits not retrieved; verify before building the article's central claim around these numbers.
+**Field Team Hook:** For Whirlpool/KitchenAid field programs: frame July as the primary revenue season (not a secondary assignment); for multi-category teams, argue for rebalancing floor time toward appliance sections and KitchenAid countertop displays during Prime Day week when the lift is proven and the unit economics favor appliances over discounted mobile accessories.
+**WOW Factor:** Yes — the loudest technology moment in years (AI features, ambient intelligence, Galaxy foldables) is not translating into unit sales; the highest-opportunity field assignment this summer may be the appliance floor, not the phone table.
+**Priority:** High
+
+### 6. Energy Efficiency Is the Purchase Driver No Demo Script Addresses
+**Angle:** Energy efficiency has overtaken features and price as the primary stated purchase driver for major domestic appliances in 2026, with repairability and circularity rising fast as secondary motivators — but standard field demo scripts still lead with features and price, answering questions nobody asked.
+**Why Now:** July is peak appliance season (Independence Day promotions live, Prime Day counter-promotions imminent, dorm and small-space buying cycle opening) and the mismatch between what shoppers are asking about and what associates are pitching will lose conversions in the highest-volume weeks of H2.
+**Research Signal:** Week of June 15 r/homeimprovement and NielsenIQ Home Appliances Outlook 2026 — energy efficiency is the leading purchase driver, repairability and circularity emerging as secondary; Week of June 22 r/electronics — energy efficiency has overtaken features AND price; Week of June 15 Industry/News — field teams unable to speak to ENERGY STAR ratings or operating cost comparisons are missing the top purchase driver for current shoppers.
+**Data to Verify:** ⚠️ NielsenIQ Home Appliances Outlook 2026 sourced via nielseniq.com — confirm data applies specifically to Whirlpool/Maytag appliance categories and that the "energy efficiency > price" finding is from a US consumer sample, not a global or European dataset, before leading with it.
+**Field Team Hook:** Build a one-page "Energy & Repairability Cheat Sheet" for Whirlpool/Maytag SKUs showing: ENERGY STAR certification status, estimated annual operating cost vs. a 2021-era equivalent, and brand service network accessibility (local repair network, parts availability) — gives associates the three facts that match the top purchase drivers without requiring a script overhaul.
+**WOW Factor:** No
+**Priority:** High
+
+### 7. The Budget-Setter Pivot — 53% of July Shoppers Need Permission, Not Persuasion
+**Angle:** 53% of Americans now operate on a formal 2026 household budget (up from 46% in 2025), and budget-setters don't respond to aspiration-building or impulse pitch mechanics — they respond to "this is how this fits what you already decided to spend"; field teams calibrated for desire-creation will underperform with the majority of July shoppers.
+**Why Now:** The tariff-driven pull-forward in March–April exhausted the ready-to-buy cohort; July's floor is disproportionately stocked with budget-conscious, deliberate purchasers who need a permission-giving frame, and the mid-July tariff expiry hesitation is layering additional "wait" psychology on top of existing budget discipline.
+**Research Signal:** Week of June 15 r/personalfinance — Deloitte May–June 2026 consumer pulse: average financial confidence 3.5/5, 53% set formal 2026 budget (up 7 points); Week of June 8 Second-Order Observation — July floor is disproportionately the hesitant, undecided, value-hunting cohort after pull-forward demand exhaustion; Week of June 22 Circana — "calloused to higher prices but not numb," spending "highly intentional."
+**Data to Verify:** ⚠️ YouGov U.S. Consumer Spending and Budgeting Trends 2026 and Deloitte State of the US Consumer May–June 2026 cited — verify these are the primary sources for the 53%/46% budget-setting figures; confirm sample size and methodology are sufficient to generalize to the electronics and appliance shopper specifically.
+**Field Team Hook:** Replace the aspirational demo opener ("imagine having this in your home") with a budget-alignment opener for any shopper who volunteers pricing sensitivity: "What were you thinking of spending? Let me show you the best option at that number and what the step up gets you for $X more" — routes to a decision within their frame rather than trying to shift the frame entirely.
+**WOW Factor:** No
+**Priority:** Medium
+
+### 8. The BNPL Fragility Trap — When "Easy Payments" Triggers a Register Rejection
+**Angle:** BNPL now extends to groceries — the three most common BNPL categories in 2026 are clothing, electronics, AND groceries — meaning a Whirlpool or KitchenAid shopper who appears ready-to-buy at the demo table may be financing their food bill simultaneously; visible BNPL willingness no longer signals financial readiness, and a register rejection after a successful demo loses the sale and damages trust.
+**Why Now:** July is peak appliance season and BNPL is the most visible financing tool on the floor; field teams pushing "easy monthly payments" as a conversion closer with financially stretched shoppers risk a public approval failure at exactly the moment they've built maximum purchase intent — the highest-stakes possible location for this failure.
+**Research Signal:** Week of June 15 WOW Candidate — BNPL expanding into groceries documented via netguru.com / accio.com 2026 consumer behavior data; Week of June 1 Second-Order Observation — BNPL-on-everyday-items trend masks real financial fragility; Whirlpool/KitchenAid field teams demonstrating to shoppers with stressed financing stacks may encounter approval friction that their pitch didn't anticipate.
+**Data to Verify:** ⚠️ "BNPL now used for groceries" sourced via netguru.com / accio.com — verify with a primary source (Affirm, Klarna, or Afterpay earnings/consumer reports) before building the article's central claim around this; confirm the three-category ranking is from a US consumer dataset, not global.
+**Field Team Hook:** For any Whirlpool/Maytag or KitchenAid shopper who mentions financing during the demo, surface trade-in value, utility company rebates, and manufacturer promotions earlier in the conversation — before the transaction — so the path to purchase doesn't depend solely on BNPL approval; reduces register rejection risk and demonstrates financial empathy rather than sales pressure.
+**WOW Factor:** No
+**Priority:** Medium
+
+---
+
+## Final 3 Selected
+_To refine: open Claude Code in your Pulse workspace and say "Let's finalize the July topics." Claude will edit this file and update the Running Topic List._
+
+- [ ] Article 1:
+- [ ] Article 2:
+- [ ] Article 3:
