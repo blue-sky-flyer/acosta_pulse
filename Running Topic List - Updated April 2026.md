@@ -1,5 +1,5 @@
 # THE PULSE: Running Topic List
-*Updated April 3, 2026 — Copy this content into the Running Topic List Word document*
+*Updated June 24, 2026 — Copy this content into the Running Topic List Word document*
 
 ---
 
@@ -15,6 +15,21 @@ Topics below have been published. Do not reuse unless a genuinely new angle exis
 | Mar 2026 | Article 1 | Tariffs After the Supreme Court Ruling — Section 232/301 and what's next |
 | Mar 2026 | Article 2 | Ask First, Pitch Second — The Consultative Selling Playbook |
 | Mar 2026 | Article 3 | The $244K Untold Story — Warranty Positioning That Doubles Attachment |
+| Apr 2026 | Article 1 | The Gift Expert Advantage — interview the recipient, close gift shoppers higher |
+| Apr 2026 | Article 2 | The Pandemic Replacement Wave — 2020–21 buyers hit the 5-year upgrade window |
+| Apr 2026 | Article 3 | The BNPL Unlock — introduce financing at discovery, not checkout |
+| May 2026 | Article 1 | The Nesting Economy — the summer nobody can afford to leave for |
+| May 2026 | Article 2 | The Social Proof Playbook — build credibility before shoppers walk in |
+| May 2026 | Article 3 | The Less-Attention Paradox — the demo that wins by showing less |
+| Jun 2026 | Article 1 | World Cup + Father's Day — one gift, two urgencies through July |
+| Jun 2026 | Article 2 | The Reddit Anti-Feature Effect — surface the smart-appliance reliability objection |
+| Jun 2026 | Article 3 | The Prime Day Validation Visit — "I'm just comparing" is the highest-intent signal |
+| Jun 2026 | Article 4 | The Display That Closes Itself — robot vacuum live-demo execution |
+
+**SELECTED — July 2026 (in production):**
+- Article 1: **The Vibe-Cession Floor** — record-low consumer sentiment + strong spending; sell permission/justification, not hype
+- Article 2: **AI Is a Closing Line, Not an Opening Line** — AI ranks last in phone purchase drivers; lead with fundamentals (Pixel example)
+- Article 3: **The Channel Shuffle** — appliance/electronics channel roles shifting in 2026; refocus field hours on the right floor
 
 **Also previously published (earlier issues):**
 - Nov 2025: Tariff urgency / holiday buying before December 15
@@ -49,7 +64,7 @@ Topics below have been published. Do not reuse unless a genuinely new angle exis
 
 **B6. The Best Buy Effect**
 - Core insight: Best Buy has near-zero conversion gap vs. Amazon and Walmart — meaning shoppers who intend to buy at Best Buy actually do. Other retailers show a 30-point conversion gap. The differentiator is experiential floor execution and knowledgeable associates.
-- Status: No article yet. **NOTE: As of early 2026, Amazon has reportedly surpassed Best Buy in CE market share. Verify current data before writing — this article may need to be reframed as "how Best Buy maintained conversion quality while losing market share, and what field teams can learn."**
+- Status: **Largely absorbed into July 2026 "The Channel Shuffle."** That article verified and used the current data — Amazon ~31% vs. Best Buy ~27% of select CE spend (Numerator, through end-2025); Best Buy Q1 FY27 appliance comp −13.6%; Lowe's appliance share leader and gaining (OpenBrand Q4 2025). Any future standalone Best Buy piece must differentiate from the channel-roles angle now published.
 
 **B7. Regional Playbook — West Region Is Distinctly Different**
 - Core insight: West region has 40% club store shoppers (vs. 13% nationally) and 53% find rebates influential (vs. 39% nationally). Regional dynamics require differentiated playbooks.
