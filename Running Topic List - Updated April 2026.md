@@ -26,10 +26,12 @@ Topics below have been published. Do not reuse unless a genuinely new angle exis
 | Jun 2026 | Article 3 | The Prime Day Validation Visit — "I'm just comparing" is the highest-intent signal |
 | Jun 2026 | Article 4 | The Display That Closes Itself — robot vacuum live-demo execution |
 
-**SELECTED — July 2026 (in production):**
+**SELECTED — July 2026 (in production, 5-article issue):**
 - Article 1: **The Vibe-Cession Floor** — record-low consumer sentiment + strong spending; sell permission/justification, not hype
 - Article 2: **AI Is a Closing Line, Not an Opening Line** — AI ranks last in phone purchase drivers; lead with fundamentals (Pixel example)
 - Article 3: **The Channel Shuffle** — appliance/electronics channel roles shifting in 2026; refocus field hours on the right floor
+- Article 4: **Back-to-School Is a Phone Decision Now** — budget phones inflating fastest on memory costs; the Google value/longevity opportunity (no Pixel sales data; Gemini student-year offer expired)
+- Article 5: **The Display That Demos Itself** — powered, fully-featured self-service demos sell twice; OnePlus shelf retreat as honest cautionary illustration (NOT a delisting, NOT Reddit-caused)
 
 **Also previously published (earlier issues):**
 - Nov 2025: Tariff urgency / holiday buying before December 15
