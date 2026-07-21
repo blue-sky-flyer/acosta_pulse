@@ -104,8 +104,8 @@ Section B topics remain unpublished and eligible. Strongest August fits:
 ---
 
 ## Final 3 Selected
-_To refine: open Claude Code in your Pulse workspace and say "Let's finalize the August topics." Claude will edit this file and update the Running Topic List._
+_Selected July 20, 2026._
 
-- [ ] Article 1:
-- [ ] Article 2:
-- [ ] Article 3:
+- [x] Article 1: **The Tax-Free Double Window** (Topic 2) — VA appliance + SC electronics exemptions, days apart; two state-specific scripts.
+- [x] Article 2: **The Contrast Zone → Experiential for Year-End Budgets** (Topic 5, reframed) — Retargeted to the late-Q3-into-Q4 timeline: brands have end-of-year budget to deploy and are leaning into experiential. Focus ideas on Google Pixel and appliances (Whirlpool/Maytag/KitchenAid). Ground in shopper sentiment + TikTok/Reddit signal; use non-CE activations as the WOW proof of what these experiences do for a brand.
+- [x] Article 3: **The Move-In Fortnight** (Topic 7) — Aug 11–25 college move-in as the highest-density CE close window of Q3.
